@@ -34,8 +34,11 @@
     <string name="menu_logout">Logout</string>
     <string name="menu_setting">Settings</string>
     <string name="menu_promotion">Promotion</string>
-	<string name="username">Username</string>
-	<string name="testLogin">Test Login</string>
+	<string name="get_data">Get Data</string>
+	<string name="title">Title</string>
+	<string name="user_Id">User Id</string>
+
+    <string name="loading">Loading…</string>
 
 
 </resources>
